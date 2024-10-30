@@ -3,7 +3,7 @@
 - 🔭 I’m currently studying software engineering
 - 🌱 I’m currently learning Java and JavaScript
 - 💬 Ask me about coding experiences and video games
-- 📫 How to reach me: jcastaneda2227@cue.edu.co
+- 📫 How to reach me: Sebashoyos19@hotmail.com
 
 
 <!--
