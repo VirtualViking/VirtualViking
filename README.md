@@ -8,7 +8,7 @@
 ## Tecnologías
 
 *   ![JavaScript](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk8VC2pDcygEEtvSQxqegVKYt4fiLe6DQCFw&s)
-*   ![Python](https://raspberry-valley.azurewebsites.net/img/Python-01.jpg)
+*   ![Python](https://edgarjayo.wordpress.com/wp-content/uploads/2019/11/python_banner.png?w=808)
 *   ![Java](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGJpub-PYWM-yI4xGhQhFChybYWUDpiwXeAg&s)
 *   ![Node.js](URL_de_la_imagen_de_Node.js) Node.js
 
