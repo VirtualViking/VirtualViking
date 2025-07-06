@@ -8,7 +8,7 @@
 ## Tecnologías
 
 *   ![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREHleX12OBYI-saRNssyI5uy_nkAQ5TVoA6scc3MyXtiwkahzKz7Ane4NWaWJCBBKDmw&usqp=CAU)
-*    ![JavaScript](https://sitespirit.co/wp-content/uploads/2024/01/javascript-logos-1024x576.jpg)
+*    ![JavaScript](https://www.datocms-assets.com/48401/1628644950-javascript.png)
 *   ![Java](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGJpub-PYWM-yI4xGhQhFChybYWUDpiwXeAg&s)
 
 
