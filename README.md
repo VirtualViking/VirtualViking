@@ -9,7 +9,7 @@
 
 Aquí hay algunas de las tecnologías que uso en mis proyectos:
 
-*   ![JavaScript](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s) JavaScript
+*   ![JavaScript](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk8VC2pDcygEEtvSQxqegVKYt4fiLe6DQCFw&s)
 *   ![Python](URL_de_la_imagen_de_Python) Python
 *   ![React](URL_de_la_imagen_de_React) React
 *   ![Node.js](URL_de_la_imagen_de_Node.js) Node.js
