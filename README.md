@@ -8,7 +8,7 @@
 ## Tecnologías
 
 *   ![JavaScript](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk8VC2pDcygEEtvSQxqegVKYt4fiLe6DQCFw&s)
-*   ![Python](https://chartmogul.com/blog/wp-content/uploads/2017/02/python-940x400.jpg)
+*   ![Python](https://raspberry-valley.azurewebsites.net/img/Python-01.jpg)
 *   ![Java](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGJpub-PYWM-yI4xGhQhFChybYWUDpiwXeAg&s)
 *   ![Node.js](URL_de_la_imagen_de_Node.js) Node.js
 
