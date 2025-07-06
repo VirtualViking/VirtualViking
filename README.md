@@ -8,7 +8,7 @@
 ## Tecnologías
 
 *   ![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREHleX12OBYI-saRNssyI5uy_nkAQ5TVoA6scc3MyXtiwkahzKz7Ane4NWaWJCBBKDmw&usqp=CAU)
-*    ![JavaScript](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk8VC2pDcygEEtvSQxqegVKYt4fiLe6DQCFw&s)
+*    ![JavaScript](https://mediaprotc.pe/wp-content/uploads/2021/06/javascript-banner.jpg)
 *   ![Java](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGJpub-PYWM-yI4xGhQhFChybYWUDpiwXeAg&s)
 
 
