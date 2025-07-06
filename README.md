@@ -8,9 +8,7 @@
 ## Tecnologías
 
 *   [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&label&=101010)]()
-*    ![JavaScript](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTgcZ_QaAYqL2b6FfEE1st9Pkr2D5fwTqzzg&s)
-*   ![Java](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGJpub-PYWM-yI4xGhQhFChybYWUDpiwXeAg&s)
-*   ![Static B](https://img.shields.io/badge/black?style=for-the-badge&logo=Javascript)
+*   [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 
 
 
