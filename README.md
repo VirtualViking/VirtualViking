@@ -8,9 +8,8 @@
 ## Tecnologías
 
 *   ![JavaScript](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk8VC2pDcygEEtvSQxqegVKYt4fiLe6DQCFw&s)
-*   ![Python](https://edgarjayo.wordpress.com/wp-content/uploads/2019/11/python_banner.png?w=808)
+*   ![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fot4QwmQv4Yeta9VbKf9EsBMBzm4-Y-F5A&s)
 *   ![Java](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGJpub-PYWM-yI4xGhQhFChybYWUDpiwXeAg&s)
-*   ![Node.js](URL_de_la_imagen_de_Node.js) Node.js
 
 
 <!--
