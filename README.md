@@ -2,16 +2,14 @@
 
 - 🔭 I’m currently studying software engineering
 - 🌱 I’m currently learning Java and JavaScript
-- 💬 Ask me about coding experiences and video games
+- 💬 Currently an intern at Igniweb
 - 📫 How to reach me: jcastaneda2227@cue.edu.co
 
 ## Tecnologías
 
-Aquí hay algunas de las tecnologías que uso en mis proyectos:
-
 *   ![JavaScript](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk8VC2pDcygEEtvSQxqegVKYt4fiLe6DQCFw&s)
 *   ![Python](URL_de_la_imagen_de_Python) Python
-*   ![React](URL_de_la_imagen_de_React) React
+*   ![Java](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGJpub-PYWM-yI4xGhQhFChybYWUDpiwXeAg&s)
 *   ![Node.js](URL_de_la_imagen_de_Node.js) Node.js
 
 
