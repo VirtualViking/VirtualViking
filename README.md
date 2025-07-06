@@ -8,7 +8,7 @@
 ## Tecnologías
 
 *   ![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREHleX12OBYI-saRNssyI5uy_nkAQ5TVoA6scc3MyXtiwkahzKz7Ane4NWaWJCBBKDmw&usqp=CAU)
-*    ![JavaScript](https://d8285fmxt3duy.cloudfront.net/public/articulos/img/java-script1.jpg)
+*    ![JavaScript](https://itproger.com/img/news/1580823783.jpg)
 *   ![Java](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGJpub-PYWM-yI4xGhQhFChybYWUDpiwXeAg&s)
 
 
