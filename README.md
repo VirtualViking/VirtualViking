@@ -8,7 +8,7 @@
 ## Tecnologías
 
 *   ![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREHleX12OBYI-saRNssyI5uy_nkAQ5TVoA6scc3MyXtiwkahzKz7Ane4NWaWJCBBKDmw&usqp=CAU)
-*    ![JavaScript](https://storage.googleapis.com/star-lab/blog/OGs/javascript.png)
+*    ![JavaScript](https://northsoft.co/blog/wp-content/uploads/2022/11/image.jpeg)
 *   ![Java](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGJpub-PYWM-yI4xGhQhFChybYWUDpiwXeAg&s)
 
 
