@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently studying software engineering
 - 🌱 I’m currently learning Java and JavaScript
-- 💬 Currently an intern at Igniweb
 - 📫 How to reach me: jcastaneda2227@cue.edu.co
 
 ## Tecnologías
