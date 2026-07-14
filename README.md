@@ -7,7 +7,7 @@
 ## 🛠️ Tech Stack
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,ts,angular,nodejs,mongodb,postgres,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,ts,angular,react,nodejs,mongodb,postgres,git,aws)](https://skillicons.dev)
 
 
 
