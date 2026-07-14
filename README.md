@@ -1,10 +1,10 @@
 ## Hi there👋 , I am Sebastian
 
-- 🔭 I’m currently studying software engineering
-- 🌱 I’m currently learning Java and JavaScript
-- 📫 How to reach me: jcastaneda2227@cue.edu.co
+- I’m currently studying software engineering
+- Exploring IA world and IA-driven development
+- How to reach me: jcastaneda2227@cue.edu.co
 
-## Tecnologías
+## 🛠️ Tech Stack
 
 *   [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&label&=101010)]()
 *   [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
