@@ -6,9 +6,9 @@
 
 ## 🛠️ Tech Stack
 
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,ts,angular,react,nodejs,mongodb,postgres,git,aws)](https://skillicons.dev)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,react,nodejs,mongodb,git,aws&theme=light" />
+</p>
 
 
 <!--
